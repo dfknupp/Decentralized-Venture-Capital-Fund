@@ -1,0 +1,2 @@
+# Decentralized-Venture-Capital-Fund
+構築WEB3ベースのベンチャーキャピタルファンドにより、個人投資家がスタートアップ企業に直接投資することができます。
